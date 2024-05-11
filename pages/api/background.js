@@ -3,23 +3,23 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
+                title: 'Government College University Faisalabad',
+                degree: 'BS, Computer Science Engineering',
+                detail: "Bachelor's Degree in Computer Science Engineering from Government College University Faisalabad.",
+                year: '2017-2021'
             },
             {
                 id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
+                title: 'Government Degree College Layyah',
+                degree: 'HSSC, Intermediate in Computer Science',
+                detail: "Completed Intermediate in Computer Science part 1 and part 2  from Government Degree College Layyah.",
                 year: '2015-2017'
             },
             {
                 id: 2,
-                title: 'Falcon Academy',
-                degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
+                title: 'Govt High School Chak No. 139-a/tda Layyah',
+                degree: 'SSC, Computer Science Subjects',
+                detail: "Completed SSC part 1 and part 2 in Computer Science subjects from Govt High School Chak No. 139-a/tda Layyah",
                 year: '2013-2015'
             },
         ]
@@ -28,30 +28,30 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
+                title: 'Zone Delivery Services - Remote',
                 role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                url: 'https://zonedeliveryservices.com/',
+                desc: 'As a frontend developer, I use React, Angular, Next & JavaScript to build user interfaces for web applications.',
+                year: '10/2023 - Present',
+                location: 'Dubai, United Arab Emirates'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Starzplay',
+                role: 'Web Technology Engineering ',
+                url: 'https://starzplay.com/en',
+                desc: 'As a Full Stack Developer, I specialized in TVOD, SVOD, setting sites, focusing on user subscriptions, interactive design, and microservices architecture. I mastered React , Node js and JavaScript to craft engaging and interactive websites.',
+                year: '03/2022 - 10/2023',
+                location: 'Lahore, Pakistan'
             },
             {
                 id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                title: 'Midway Solutions Inc (Nibble) - Remote',
+                role: 'Backend Developer (PHP & LARAVEL)',
+                url: 'https://heynibble.com/',
+                desc: "I work there as a PHP Laravel developer, where I honed my skills in performing CRUD operations and crafting intuitive dashboards, showcasing my proficiency in professional web development.",
+                year: '02/2021 - 02/2022',
+                location: 'Lahore, Pakistan'
             },
 
         ]

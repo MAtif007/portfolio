@@ -1,17 +1,17 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Muhammad Atif Sarfraz';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `MERN Stack Developer | Full stack Developer | Shopify Expert`;
 
 export const DETAILS = {
   Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  City: 'Lahore',
+  Age: '26',
 };
 
 export const SKILLS = [
   {
     title: 'MERN Stack Developer',
-    level: '75%',
+    level: '80%',
   },
   {
     title: 'React Developer',
@@ -23,11 +23,11 @@ export const SKILLS = [
   // },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '75%',
   },
   {
-    title: 'Technical Blogger',
-    level: '83%',
+    title: 'MEAN Stack Developer',
+    level: '70%',
   },
 ];
 
@@ -38,11 +38,8 @@ export const TECH_STACK = [
   'TypeScript',
   'NodeJS',
   'Redux',
-  'Zustand',
   'CSS',
-  'SCSS',
   'TailwindCSS',
-  'Ant Design',
   'Material UI',
   'Next UI',
   'REST API',
@@ -51,17 +48,17 @@ export const TECH_STACK = [
   'Git',
   'GitHub',
   'Jira',
-  'Figma',
-  'Adobe XD',
+  'Angular(+8)',
+  'Shopify',
+  'PHP',
+  'Laravel'
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'm.atifsarfraz572@gmail.com',
+  PHONE: '+923036491973',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/MAtif007',
+  LINKEDIN: 'https://www.linkedin.com/in/muhammad-atif-sarfraz/',
 };
