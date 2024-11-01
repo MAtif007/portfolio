@@ -32,7 +32,7 @@ const background = [
                 role: 'Frontend Developer',
                 url: 'https://zonedeliveryservices.com/',
                 desc: 'As a frontend developer, I use React, Angular, Next & JavaScript to build user interfaces for web applications.',
-                year: '10/2023 - Present',
+                year: '06/2023 - Present',
                 location: 'Dubai, United Arab Emirates'
             },
             {
@@ -41,7 +41,7 @@ const background = [
                 role: 'Web Technology Engineering ',
                 url: 'https://starzplay.com/en',
                 desc: 'As a Full Stack Developer, I specialized in TVOD, SVOD, setting sites, focusing on user subscriptions, interactive design, and microservices architecture. I mastered React , Node js and JavaScript to craft engaging and interactive websites.',
-                year: '03/2022 - 10/2023',
+                year: '03/2022 - 06/2023',
                 location: 'Lahore, Pakistan'
             },
             {

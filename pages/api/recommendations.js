@@ -13,7 +13,7 @@ const recommendationCard = [
     name: 'Unzel Muneeb',
     image: "images/unzel.jpeg",
     designation: 'Freelancer | SEO',
-    view: "I had the privilege of working alongside Atif on multiple university projects, and I must say, his talent and work ethic truly stood out. Recently, we were both part of the dynamic team at JMM Technologies, where Osama's professionalism and attention to detail shone brightly. I wholeheartedly endorse Osama for any opportunity that calls for a highly skilled and dedicated individual.",
+    view: "I had the privilege of working alongside Atif on multiple university projects, and I must say, his talent and work ethic truly stood out. Recently, we were both part of the dynamic team at JMM Technologies, where Atif professionalism and attention to detail shone brightly. I wholeheartedly endorse Atif for any opportunity that calls for a highly skilled and dedicated individual.",
     linkednURL: "https://www.linkedin.com/in/unzelmuneeb/"
   },
   {
